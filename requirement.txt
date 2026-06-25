@@ -1,0 +1,5 @@
+streamlit
+textwrap
+agno
+groq
+dotenv
